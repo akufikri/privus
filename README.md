@@ -1,5 +1,8 @@
 # Privus: API Hashing Kustom untuk Keamanan Data yang Unggul
 
+![wepik--202406101142216NsS](https://github.com/akufikri/privus/assets/108182945/b157fefd-f428-4ffd-9c47-8aecab947a4a)
+
+
 🔒 **Keamanan Tanpa Kompromi, Privasi Tanpa Batas** 🌐
 
 Privus adalah API hashing kustom yang dibangun dengan Node.js, dirancang untuk menjadi solusi one-stop bagi semua kebutuhan hashing data Anda. Kami percaya bahwa keamanan data tidak boleh menjadi beban, tetapi harus menjadi kekuatan.
